@@ -1,5 +1,6 @@
 # IMEMNet
 IMEMNet Dataset is for continuous emotion-based image and music matching. For more detail, please refer to our paper:
+
 Emotion-Based End-to-End Matching Between Image and Music in Valence-Arousal Space
 https://arxiv.org/abs/2009.05103
 	
@@ -14,8 +15,12 @@ Plus, we also provide the music clips in format ‘.wav’. Please download here
 Second, download the image dataset IAPS, NAPS and EMOTIC.
 
 ## Matching Dataset IMEMNET
-Download the train, test and validation files here:
+Download the train, test and validation files here.
+
 The file format is:
+
 music_clip_id image_id matching_score
+
 eg:
+
 1967-11 COCO_train2014_000000318807 0.8757995366765425
